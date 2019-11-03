@@ -1,7 +1,7 @@
 # Clustering <br>
 **ICAE (An Image Clustering Auto-Encoder Based on Predefined Evenly-Distributed Class Centroids and MMD Distance)**
 
-This is a reproducing code for ICAE [1]. ICAE is a method for clustering, specifically, ICAE is a image clustering auto-encoder based on predefined evenly-distributed class centroids and MMD distance. It can be applied to clustering to achieve the state-of-the-art results. The work is Zhngyong Wang completed during the period of study for a master's degree, in Shanghai University, China.
+This is a reproducing code for ICAE [1]. ICAE is a method for clustering, specifically, ICAE is a image clustering auto-encoder based on predefined evenly-distributed class centroids and MMD distance. It can be applied to clustering to achieve the state-of-the-art results. The work is Zhengyong Wang completed during the period of study for a master's degree, in Shanghai University, China.
 
 ***
 
