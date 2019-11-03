@@ -33,8 +33,8 @@ For reproducing the experiments on MNIST、Fashion-Mnist、COIL20 datasets in [1
 
 ***
 
-## If you have any questions, you can email me by zywang@shu.edu.cn
-
 ### MNIST、FASHION_MNIST、COIL20 datasets and the code about FASHION_MNIST、COIL20 can be downloaded in this:
 链接：https://pan.baidu.com/s/1VFO086XFCCmmJCuk0Bc4lQ 
 提取码：pb9f 
+
+## If you have any questions, you can email me by zywang@shu.edu.cn
