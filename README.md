@@ -37,4 +37,4 @@ For reproducing the experiments on MNIST、Fashion-Mnist、COIL20 datasets in [1
 
 ***
 
-## If you have any questions, you can email me by zywang@shu.edu.cn
+## If you have any questions, you can email me by zywang_power@163.com
